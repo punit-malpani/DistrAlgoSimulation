@@ -3,12 +3,11 @@ Distributed Computing Algorithms simulation using AKKA (Scala) toolkit
 
 This project explores various renowned wave algorithms within the realm of distributed computing. It is developed using the Akka typed framework, which leverages the Actor model to create a distributed computing environment. This project utilized graphs generated from [NetGraphSim](https://github.com/0x1DOCD00D/NetGameSim) (it can be used to generate large scale random graphs to run simulations on top)
 
-/*
+{
 - Create a distributed network simulation using Akka(Scala)
 - How to use Akka-typed with Scala 3 (for Beginners also) 
 - Implement Distributed Wave Algotithms including: Tarry's, DFS-Wave, Optimized-DFS Wave, Awerbuch's, Cidon's, Tree and Echo Wave Algorithms
-*/
-
+}
 
 ## Simple Installation  Guide
 
