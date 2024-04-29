@@ -6,7 +6,7 @@ This project explores various renowned wave algorithms within the realm of distr
 {
 - Create a distributed network simulation using Akka(Scala)
 - How to use Akka-typed with Scala 3 (for Beginners also) 
-- Implement Distributed Wave Algotithms including: Tarry's, DFS-Wave, Optimized-DFS Wave, Awerbuch's, Cidon's, Tree and Echo Wave Algorithms
+- Implement Distributed Wave Algotithms including: Tarry's, DFS-Wave, Optimized-DFS Wave, Awerbuch's, Cidon's, Tree and Echo Wave Algorithms <br>
 }
 
 ## Simple Installation  Guide
