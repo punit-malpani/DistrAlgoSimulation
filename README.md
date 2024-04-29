@@ -14,9 +14,9 @@ This project explores various renowned wave algorithms within the realm of distr
 ## Simple Installation  Guide
 
 ### Prerequisites
-Java Development Kit (JDK) 11
-Scala 3.2.2
-SBT (Scala Build Tool) 1.8.3
++ Java Development Kit (JDK) 11
++ Scala 3.2.2
++ SBT (Scala Build Tool) 1.8.3
 
 
 ### application.Conf
@@ -33,7 +33,7 @@ Inside base-directory/src/main/resources/, you can find the application.conf fil
 (You can also run the application from IntelliJ or some other related IDE)
 
 ### Additional Notes
-Make sure to update the build.sbt file if you need to add dependencies or make any configuration changes specific to your project.
+Make sure to update the build.sbt file if you need to add dependencies or make any configuration changes specific to your project.<br>
 Refer to the official documentation for Scala, Akka, and SBT for more detailed information and troubleshooting tips.
 
 
@@ -41,16 +41,16 @@ Refer to the official documentation for Scala, Akka, and SBT for more detailed i
 ## Usage
 The input directory inside the base directory includes some .ngs graph files that can be utilized to run and view this distributed wave algorithm simulations. To utilize one, set the appropriate dir and filename in the application.conf file.
 
-1. Once the application is running, it will load the graph data, and prompt for user input as follows,
+1. Once the application is running, it will load the graph data, and prompt for user input as follows,<br>
 
 Welcome to AkkaWaveSim
 Select one from the following to initiate a wave algorithm simulation:
 1. Tarry's Algo[1]      2. DFS Algo[2]          3. Optimized DFS Algo[3]        
 4. Awerbuch's Algo[4]   5. Cidon's Algo[5]
 6. Tree Algo[6]          7. Echo Algo[7]
-Enter choice[1-7]:
+Enter choice[1-7]:<br>
 
->> A simulation based on the graph and your choice of algorithm will be run. All the important information and messages exchanges will be logged using Akka context's logger. Log files will be available in the log folder inside the base director   
+>> A simulation based on the graph and your choice of algorithm will be run. All the important information and messages exchanges will be logged using Akka context's logger. Log files will be available in the log folder inside the base director
 
 >> Once a simulation is complete, the prompt will reappear asking for algorithm choice, enabling running simulations in a loop.
 
