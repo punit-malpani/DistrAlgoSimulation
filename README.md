@@ -45,9 +45,9 @@ The input directory inside the base directory includes some .ngs graph files tha
 
 Welcome to AkkaWaveSim
 Select one from the following to initiate a wave algorithm simulation:
-1. Tarry's Algo[1]\t\t2. DFS Algo[2]\t\t3. Optimized DFS Algo[3]        
-4. Awerbuch's Algo[4]\t\t5. Cidon's Algo[5]
-6. Tree Algo[6]\t\t7. Echo Algo[7]
+1. Tarry's Algo[1]<t><t>2. DFS Algo[2]<t><t>3. Optimized DFS Algo[3]        
+4. Awerbuch's Algo[4]<t><t>5. Cidon's Algo[5]
+6. Tree Algo[6]<t><t>7. Echo Algo[7]
 Enter choice[1-7]:<br>
 
 - A simulation based on the graph and your choice of algorithm will be run. All the important information and messages exchanges will be logged using Akka context's logger. Log files will be available in the log folder inside the base director
