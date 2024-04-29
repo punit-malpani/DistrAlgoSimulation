@@ -50,8 +50,8 @@ Select one from the following to initiate a wave algorithm simulation:
 6. Tree Algo[6]          7. Echo Algo[7]
 Enter choice[1-7]:<br>
 
->> A simulation based on the graph and your choice of algorithm will be run. All the important information and messages exchanges will be logged using Akka context's logger. Log files will be available in the log folder inside the base director
+- A simulation based on the graph and your choice of algorithm will be run. All the important information and messages exchanges will be logged using Akka context's logger. Log files will be available in the log folder inside the base director
 
->> Once a simulation is complete, the prompt will reappear asking for algorithm choice, enabling running simulations in a loop.
+- Once a simulation is complete, the prompt will reappear asking for algorithm choice, enabling running simulations in a loop.
 
  
